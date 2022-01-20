@@ -1,0 +1,26 @@
+.header{
+    text-align: center;
+    background-image: url(images/b_AllSoulsquad.jpg);
+    background-size: cover;
+    color: rgb(241, 23, 23);
+}
+
+.nav{
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+a{
+    color: white;
+}
+h1{
+    font-size: 45px;
+    margin: 50px;
+}
+.library img{
+    display: flex;
+    width: 100px;
+}
